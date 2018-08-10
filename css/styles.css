@@ -1,7 +1,7 @@
 h1 {
 color: black;
 font-family: verdana;
-font-size: 200%;
+font-size: 300%;
 text-align: center;
 }
 #title {
@@ -10,14 +10,14 @@ background-color: gray;
 
 #Triangle-Tracker {
 background-color: yellow;
-padding: 10px;
+padding: 40px;
 }
 body {
     background-color: lightblue;
 }
 p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 30px;
 }
 img {
   float: center;
