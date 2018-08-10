@@ -1,5 +1,5 @@
 
-# Traingles-Tracker
+# Triangles-Tracker
 This is an application which detects the type of triangles,10/8/2018}
 By Charles Gateru
 ## Description
