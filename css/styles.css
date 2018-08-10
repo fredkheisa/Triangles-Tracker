@@ -13,5 +13,12 @@ background-color: yellow;
 padding: 10px;
 }
 body {
-    background-color: red;
+    background-color: lightblue;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+img {
+  float: left;
 }
