@@ -1,9 +1,9 @@
 
-# {Traingles-Tracker}
-####{This is an application which detects the type of triangles,10/8/2018}
+# Traingles-Tracker
+This is an application which detects the type of triangles,10/8/2018}
 By Charles Gateru
-## {Description}
-{The application is called Triangles-Tracker.it contains three different triangles with three sides.
+## Description
+The application is called Triangles-Tracker.it contains three different triangles with three sides.
 ## Setup/Installation Requirements
 * The use of atom used as an editor
 * Making use of chrome so as to JavaScript
@@ -14,7 +14,7 @@ By Charles Gateru
  * HTML
  * Atom
 ## Support and contact details
-  for more info call +254790437430        
+  for more info call +254790437430 https://github.com/1zx/Triangles-Tracker    
 ## License
 MIT License
 
