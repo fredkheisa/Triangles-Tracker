@@ -1,3 +1,4 @@
+function triangleTracker(){
 var a = parseInt(prompt("Enter the length"));
 var b = parseInt(prompt("Enter the height"));
 var c = parseInt(prompt("Enter the hypo"));
@@ -12,4 +13,5 @@ var c = parseInt(prompt("Enter the hypo"));
   }
     else if (a !== b && b !== c ) {
       alert("Scalene Triangle");
-  };     
+  }
+}

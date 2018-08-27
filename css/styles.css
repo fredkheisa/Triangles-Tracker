@@ -1,5 +1,5 @@
 h1 {
-color: black;
+color: red;
 font-family: verdana;
 font-size: 300%;
 text-align: center;
@@ -19,8 +19,12 @@ body {
 p {
     font-family: verdana;
     font-size: 30px;
+    color: red;
 }
-img {
+h2 {
+    color: red;
+  }
+  img {
   float: center;
 }
 .sidebar {
@@ -30,7 +34,7 @@ img {
 }
 .column {
     width: 350px;
-    float: left;
+    float: right;
 }
 .test-box {
   border: 2px solid red;
